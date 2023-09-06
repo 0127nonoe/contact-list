@@ -1,0 +1,84 @@
+[2023-09-03T17:50:43.869Z] Error fetching data from Pipedrive: Cannot read properties of undefined (reading 'length')
+[2023-09-03T17:52:19.794Z] Error fetching data from Pipedrive: Cannot read properties of undefined (reading 'length')
+[2023-09-04T08:57:55.715Z] Error fetching data from Pipedrive: Request failed with status code 401
+[2023-09-04T10:08:28.056Z] Error fetching data from Pipedrive: Request failed with status code 401
+[2023-09-04T10:09:30.717Z] Error fetching data from Pipedrive: Request failed with status code 401
+[2023-09-04T10:33:17.093Z] Successfully fetched 2 records from Pipedrive.
+[2023-09-04T10:40:51.195Z] Successfully fetched 2 records from Pipedrive.
+[2023-09-04T10:49:30.110Z] Successfully fetched 3 records from Pipedrive.
+[2023-09-04T10:53:17.956Z] Successfully fetched 3 records from Pipedrive.
+[2023-09-04T10:56:01.858Z] Successfully fetched 3 records from Pipedrive.
+[2023-09-04T11:57:32.610Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T12:17:30.229Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T12:19:28.721Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T12:21:41.141Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T12:22:42.543Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T12:22:46.397Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T12:22:53.532Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T12:23:24.441Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T12:23:51.870Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T12:29:28.562Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T12:44:06.810Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T12:47:47.050Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T14:39:40.635Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T14:39:50.670Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T14:40:30.045Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T14:42:42.005Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T14:48:48.125Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T14:49:57.393Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T14:50:53.456Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T14:51:22.723Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-04T14:52:08.420Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T06:50:39.904Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T06:51:33.832Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T07:12:10.661Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T07:40:16.592Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T07:45:48.327Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T07:49:54.247Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T07:50:39.559Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T07:52:11.283Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T07:53:04.729Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T07:53:51.356Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T07:55:58.414Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T08:01:53.251Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T08:01:57.871Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T08:04:20.892Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T08:05:35.996Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T08:23:31.654Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T08:23:55.522Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T08:24:38.511Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T08:25:11.660Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T08:25:47.248Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T08:33:56.728Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T08:35:03.940Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T09:38:45.106Z] Error fetching data from Pipedrive: GetRandomCountry is not defined
+[2023-09-05T09:39:51.564Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T09:50:26.547Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T09:55:34.191Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T09:55:40.940Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T09:57:40.239Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T09:58:37.377Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T09:59:34.472Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T10:05:34.989Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T11:59:05.449Z] Successfully fetched 5 records from Pipedrive.
+[2023-09-05T13:12:41.180Z] Error fetching data from Pipedrive: Cannot read properties of null (reading 'pictures')
+[2023-09-05T13:13:20.000Z] Error fetching data from Pipedrive: Cannot read properties of null (reading 'pictures')
+[2023-09-05T13:13:22.433Z] Error fetching data from Pipedrive: Cannot read properties of null (reading 'pictures')
+[2023-09-06T06:20:55.671Z] Successfully fetched 6 records from Pipedrive.
+[2023-09-06T06:22:49.616Z] Error fetching data from Pipedrive: Cannot read properties of null (reading 'pictures')
+[2023-09-06T06:23:35.498Z] Successfully fetched 7 records from Pipedrive.
+[2023-09-06T06:24:15.604Z] Successfully fetched 7 records from Pipedrive.
+[2023-09-06T06:29:04.000Z] Successfully fetched 7 records from Pipedrive.
+[2023-09-06T06:29:07.875Z] Successfully fetched 7 records from Pipedrive.
+[2023-09-06T06:29:31.843Z] Successfully fetched 7 records from Pipedrive.
+[2023-09-06T07:59:35.195Z] Successfully fetched 7 records from Pipedrive.
+[2023-09-06T08:48:14.658Z] Successfully fetched 9 records from Pipedrive.
+[2023-09-06T08:53:12.587Z] Successfully fetched 9 records from Pipedrive.
+[2023-09-06T08:53:17.338Z] Successfully fetched 9 records from Pipedrive.
+[2023-09-06T08:53:19.596Z] Successfully fetched 9 records from Pipedrive.
+[2023-09-06T09:01:17.570Z] Successfully fetched 9 records from Pipedrive.
+[2023-09-06T09:41:16.397Z] Successfully fetched 9 records from Pipedrive.
+[2023-09-06T09:56:17.555Z] Successfully fetched 9 records from Pipedrive.
+[2023-09-06T09:56:21.124Z] Successfully fetched 9 records from Pipedrive.
+[2023-09-06T13:58:34.917Z] Successfully fetched 9 records from Pipedrive.
+[2023-09-06T13:58:48.176Z] Successfully fetched 9 records from Pipedrive.
